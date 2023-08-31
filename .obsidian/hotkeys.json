@@ -1,0 +1,18 @@
+{
+  "obsidian-trim-whitespace:trim-whitespace-document": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-trim-whitespace:trim-whitespace-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ]
+}

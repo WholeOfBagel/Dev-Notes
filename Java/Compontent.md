@@ -1,0 +1,1 @@
+Reusable software element that can range from a method or a package with a complex framework.

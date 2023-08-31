@@ -1,0 +1,1 @@
+np.dtype({'names': ['col1', 'col2'], 'formats': ['i4', 'f4']})

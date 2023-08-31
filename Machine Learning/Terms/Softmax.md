@@ -1,0 +1,1 @@
+An activation function that makes all values should sum to 1, meaning we are essentially creating a probability distribution.
