@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Data/Splitting Data Into Directories.md",
+                "file": "Machine Learning/Natural Language Processing/RNN vs LSTM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Data/Splitting Data Into Directories.md",
+                "file": "Machine Learning/Natural Language Processing/RNN vs LSTM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Data/Splitting Data Into Directories.md",
+                "file": "Machine Learning/Natural Language Processing/RNN vs LSTM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Data/Splitting Data Into Directories.md"
+                "file": "Machine Learning/Natural Language Processing/RNN vs LSTM.md"
               }
             }
           }
@@ -156,13 +156,32 @@
   },
   "active": "284e2c8fb17cc46a",
   "lastOpenFiles": [
-    "Dev-Notes",
+    "z_attach/Pasted image 20230901173910.png",
+    "Tensorflow/tf./NLP/tf.keras.preprocessing.text.md",
+    "Machine Learning/Natural Language Processing/RNN vs LSTM.md",
+    "Tensorflow/tf./NLP/kensorflow.keras.preprocessing.sequence.md",
+    "Machine Learning/Natural Language Processing/Subword Tokenization.md",
+    "Machine Learning/Natural Language Processing/Loss.md",
+    "Machine Learning/Natural Language Processing/Visualization.md",
+    "Machine Learning/Natural Language Processing/Word Embedding.md",
+    "Machine Learning/Natural Language Processing/Categorization.md",
+    "z_attach/Pasted image 20230901145120.png",
+    "z_attach/Pasted image 20230901145014.png",
+    "Machine Learning/Natural Language Processing/Encoding Language.md",
+    "Python3/split.md",
+    "Python3/join.md",
+    "Python3/json.md",
+    "Tensorflow/tf./CV",
+    "Tensorflow/tf./NLP",
+    "Tensorflow/tf./CV/tf.keras.preprocessing.image.ImageDataGenerator.md",
     "Machine Learning/Data/Loading data.md",
+    "Tensorflow/Coursera/Dogs vs Cats.md",
     "Machine Learning/Data/Splitting Data Into Directories.md",
+    "Machine Learning/Natural Language Processing",
+    "Dev-Notes",
     "Tensorflow/Layers.md",
-    "Tensorflow/tf./tf.keras.layers.Conv2D.md",
+    "Tensorflow/tf./CV/tf.keras.layers.Conv2D.md",
     "Tensorflow/Augmentation.md",
-    "Tensorflow/tf./tf.keras.preprocessing.image.ImageDataGenerator.md",
     "Machine Learning/Regularization/Dropout.md",
     "Machine Learning/Regularization/L1 Regularization (lasso).md",
     "Machine Learning/Computer Vision/Transfer Learning.md",
@@ -173,35 +192,16 @@
     "Machine Learning/Regularization",
     "Machine Learning/Computer Vision/GT Course/Exam 1/3-Smoothing-Filters.md",
     "z_attach/Pasted image 20230817123152.png",
-    "Machine Learning/Terms/Callbacks.md",
-    "Tensorflow/Exercises/Lab 3.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/22-Convolutional NN.md",
-    "Machine Learning/Visualization/Examples.md",
     "z_attach/Pasted image 20230816154038.png",
-    "Machine Learning/Optimization/Optimizer.md",
-    "Tensorflow/Coursera/Dogs vs Cats.md",
-    "Machine Learning/Overfitting.md",
     "Tensorflow/Coursera",
     "Machine Learning/Computer Vision/GT Course/cheats/full.pdf",
     "Machine Learning/Computer Vision/GT Course/cheats/front.pdf",
     "Machine Learning/Computer Vision/GT Course/cheats/combined 1.pdf",
     "Machine Learning/Computer Vision/GT Course/cheats/combined.pdf",
-    "Machine Learning/Computer Vision/Visualization/Code.md",
-    "Machine Learning/Computer Vision/GT Course",
-    "Machine Learning/Computer Vision/Algorithms/Single Shot Detector.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/20-Neural Networks.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/17-Linear Models.md",
-    "Machine Learning/Classification/Cross Entropy.md",
-    "Machine Learning/Computer Vision/Visualization",
     "z_attach/Pasted image 20230803153640.png",
-    "Machine Learning/Classification",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/21-CovNets.md",
-    "Machine Learning/Terms",
     "z_attach/Pasted image 20230802221720.png",
     "z_attach/Pasted image 20230802203902.png",
     "z_attach/Pasted image 20230802201350.png",
-    "z_attach/Pasted image 20230801180259.png",
-    "z_attach/Pasted image 20230801162110.png",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,3 @@
+Look at [[tf.keras.layers.Embedding]]
+
+The main idea here is to represent each word in your vocabulary with vectors. These vectors have trainable weights so as your neural network learns, words that are most likely to appear in a positive contexts will converge towards similar weights. You can read more about word embeddings [here](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.tensorflow.org%2Ftext%2Fguide%2Fword_embeddings).

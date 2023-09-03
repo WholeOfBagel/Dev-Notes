@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "path:\"Machine Learning\"",
+      "query": "path:\"Machine Learning/Natural Language Processing\"",
       "color": {
         "a": 1,
-        "rgb": 6082262
+        "rgb": 10443990
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36534797679825337,
+  "scale": 0.7840526816831257,
   "close": false
 }

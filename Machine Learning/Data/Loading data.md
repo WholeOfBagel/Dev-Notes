@@ -10,4 +10,5 @@ data_path = os.path.join(current_dir, "data/mnist.npz")
         
 ```
 
+[[tf.keras.preprocessing.image.ImageDataGenerator]]
 `flow_from_directory` method for ImageDataGenerators

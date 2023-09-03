@@ -1,0 +1,1 @@
+' '.join(arr) will join everything in an array with this character into one string sentence
