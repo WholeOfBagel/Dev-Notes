@@ -1,1 +1,0 @@
-Validation loss tends to creep up in NLP applications, despite our accuracy getting higher. Meaning that our accuracy is high but our confidence is actually decreasing.

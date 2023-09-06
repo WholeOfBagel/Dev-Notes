@@ -1,0 +1,1 @@
+ converts the text vector into a stream of character indices
