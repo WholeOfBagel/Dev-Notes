@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Time Series/Terms/Autocorrelated series.md",
+                "file": "Machine Learning/Time Series/Moving average.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Time Series/Terms/Autocorrelated series.md",
+                "file": "Machine Learning/Time Series/Moving average.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Time Series/Terms/Autocorrelated series.md",
+                "file": "Machine Learning/Time Series/Moving average.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Time Series/Terms/Autocorrelated series.md"
+                "file": "Machine Learning/Time Series/Moving average.md"
               }
             }
           }
@@ -156,9 +156,24 @@
   },
   "active": "284e2c8fb17cc46a",
   "lastOpenFiles": [
-    "z_attach/Pasted image 20230906095725.png",
-    "Machine Learning/Time Series/Terms/Imputed Data.md",
+    "Machine Learning/Time Series/Metrics for time series.md",
+    "Machine Learning/Time Series/Moving average.md",
+    "Machine Learning/Time Series/Trailing Window.md",
+    "z_attach/Pasted image 20230906153558.png",
+    "z_attach/Pasted image 20230906153417.png",
+    "z_attach/Pasted image 20230906153400.png",
+    "z_attach/Pasted image 20230906153154.png",
+    "z_attach/Pasted image 20230906153119.png",
+    "z_attach/Pasted image 20230906152830.png",
+    "z_attach/Pasted image 20230906152149.png",
+    "Machine Learning/Time Series/Train, validation and testing.md",
+    "z_attach/Pasted image 20230906152037.png",
+    "z_attach/Pasted image 20230906151533.png",
     "Machine Learning/Time Series/Terms/Autocorrelated series.md",
+    "Machine Learning/Time Series/Terms/Seasonality.md",
+    "Machine Learning/Time Series/Terms/Non-Stationary Time Series.md",
+    "z_attach/Pasted image 20230906100119.png",
+    "Machine Learning/Time Series/Terms/Imputed Data.md",
     "Machine Learning/Time Series/Terms",
     "Machine Learning/Time Series/Terms/Multivariate Time Series.md",
     "Machine Learning/Time Series/Terms/Univariate Time Series.md",
@@ -166,7 +181,6 @@
     "Machine Learning/Time Series",
     "Tensorflow/tf./tf.keras.utils.to_categorical.md",
     "Machine Learning/Natural Language Processing/Methodologies/LSTM.md",
-    "z_attach/Pasted image 20230905171915.png",
     "Tensorflow/tf./NLP/tf.data.Dataset.from_tensor_slices.md",
     "Tensorflow/tf./NLP/tf.keras.layers.StringLookup.md",
     "Tensorflow/tf./NLP/tf.keras.preprocessing.text.md",
@@ -174,33 +188,18 @@
     "Machine Learning/Natural Language Processing/Tasks/Categorization in NLP.md",
     "Machine Learning/Natural Language Processing/Word Embedding.md",
     "Machine Learning/Natural Language Processing/Methodologies/Using convolutions in NLP.md",
-    "z_attach/Pasted image 20230905161449.png",
     "Machine Learning/Accuracy.md",
     "Machine Learning/Overfitting.md",
     "Machine Learning/Natural Language Processing/general/Visualization.md",
     "Machine Learning/Natural Language Processing/general/Loss.md",
-    "z_attach/Pasted image 20230905160526.png",
     "Machine Learning/Natural Language Processing/Tasks",
-    "z_attach/Pasted image 20230905160154.png",
-    "z_attach/Pasted image 20230905154818.png",
     "Machine Learning/Computer Vision/GT Course/Exam 2/21-CovNets.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/20-Neural Networks.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/19-Backpropogation.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/18-Gradient Decent.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/17-Linear Models.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/16-Object Recognition Intro.md",
-    "Machine Learning/Computer Vision/GT Course/Exam 2/15-Instance Recognition.md",
     "Machine Learning/Natural Language Processing/Methodologies",
     "Machine Learning/Natural Language Processing/general",
-    "z_attach/Pasted image 20230901173910.png",
-    "z_attach/Pasted image 20230901145120.png",
-    "z_attach/Pasted image 20230901145014.png",
     "Tensorflow/tf./CV",
     "Tensorflow/tf./NLP",
     "Machine Learning/Natural Language Processing",
     "Dev-Notes",
-    "z_attach/Pasted image 20230830101205.png",
-    "z_attach/Pasted image 20230830101021.png",
     "Machine Learning/Regularization",
     "Untitled.canvas"
   ]
