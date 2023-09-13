@@ -1,6 +1,6 @@
-**Automatically adjusting the learning rate tuning**
+**Automatically adjusting the [[learning rate]] tuning**
 * Adam
 * RMSprop
 * Adagrad
 
-SGD does not automate learning rate tuning
+SGD does not automate [[learning rate]] tuning

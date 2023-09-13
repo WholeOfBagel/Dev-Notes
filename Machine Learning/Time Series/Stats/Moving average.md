@@ -62,4 +62,4 @@ After calculating the moving average here we can then apply trend and seasonalit
 #### Removing the introduced noise
 ![[Pasted image 20230906153417.png]]
 
-This makes use of a [[trailing window]] over the present values
+This makes use of a [[Trailing Window]] over the present values

@@ -1,6 +1,8 @@
 Useful in applications where order of tokens matter in a sequence. Typically very slow.
 Values from earlier words can be carried to later ones via a cell state. 
 
+![[Pasted image 20230907174828.png]]
+
 ### Birdirectionality
 Bidirectional allows LSTMs look forwards and backwards in a sentence
 ```

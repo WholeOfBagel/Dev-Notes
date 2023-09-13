@@ -59,7 +59,7 @@ for iter in range(numIters):
 	g = gradient(data[subset], L)
 	w = w + -stepsize(iter) * g #update 2
 ```
-Learning rate i.e. stepsize (lower it over time - don't overshoot later)
+[[Learning rate]] i.e. stepsize (lower it over time - don't overshoot later)
 Solution avergate gradient: exponentially decaying weights: called momentum
 ###### Optimize
 w on training set with SGD to max training acc
